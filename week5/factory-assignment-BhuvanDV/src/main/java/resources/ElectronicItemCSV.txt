@@ -1,0 +1,4 @@
+1, air Ipad, 599.09
+3, 10th gen Ipad, 499.09
+5, 9th gen Ipad, 259.09
+7, pro Ipad, 899.09

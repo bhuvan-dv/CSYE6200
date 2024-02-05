@@ -1,0 +1,27 @@
+=====================sort by id =====================
+ElectronicItem{ID :1 name : air Ipad price :599.09 }
+
+ElectronicItem{ID :3 name : 10th gen Ipad price :499.09 }
+
+ElectronicItem{ID :5 name : 9th gen Ipad price :259.09 }
+
+ElectronicItem{ID :7 name : pro Ipad price :899.09 }
+
+ =====================sort by Name =====================
+ElectronicItem{ID :3 name : 10th gen Ipad price :499.09 }
+
+ElectronicItem{ID :5 name : 9th gen Ipad price :259.09 }
+
+ElectronicItem{ID :1 name : air Ipad price :599.09 }
+
+ElectronicItem{ID :7 name : pro Ipad price :899.09 }
+
+ =====================sort by Price =====================
+ElectronicItem{ID :5 name : 9th gen Ipad price :259.09 }
+
+ElectronicItem{ID :3 name : 10th gen Ipad price :499.09 }
+
+ElectronicItem{ID :1 name : air Ipad price :599.09 }
+
+ElectronicItem{ID :7 name : pro Ipad price :899.09 }
+

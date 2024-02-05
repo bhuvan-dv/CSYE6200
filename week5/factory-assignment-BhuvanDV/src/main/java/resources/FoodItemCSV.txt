@@ -1,0 +1,4 @@
+2, Baggles, 5.5
+4, Apple, 1.5
+6, Bread, 2.0
+8, Chicken, 5.0

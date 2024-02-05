@@ -1,0 +1,27 @@
+=====================sort by id =====================
+FoodItem{ ID :2 name : Baggles price :5.5 }
+
+FoodItem{ ID :4 name : Apple price :1.5 }
+
+FoodItem{ ID :6 name : Bread price :2.0 }
+
+FoodItem{ ID :8 name : Chicken price :5.0 }
+
+ =====================sort by Name =====================
+FoodItem{ ID :4 name : Apple price :1.5 }
+
+FoodItem{ ID :2 name : Baggles price :5.5 }
+
+FoodItem{ ID :6 name : Bread price :2.0 }
+
+FoodItem{ ID :8 name : Chicken price :5.0 }
+
+ =====================sort by Price =====================
+FoodItem{ ID :4 name : Apple price :1.5 }
+
+FoodItem{ ID :6 name : Bread price :2.0 }
+
+FoodItem{ ID :8 name : Chicken price :5.0 }
+
+FoodItem{ ID :2 name : Baggles price :5.5 }
+

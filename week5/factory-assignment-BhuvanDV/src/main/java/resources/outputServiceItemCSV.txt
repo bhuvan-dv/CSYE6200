@@ -1,0 +1,21 @@
+=====================sort by id =====================
+ServiceItem{ ID :1001 name : Plumbing Service price :99.99}
+
+ServiceItem{ ID :1002 name : Web Development price :299.99}
+
+ServiceItem{ ID :1003 name : Graphic Design price :149.99}
+
+ =====================sort by Name =====================
+ServiceItem{ ID :1003 name : Graphic Design price :149.99}
+
+ServiceItem{ ID :1001 name : Plumbing Service price :99.99}
+
+ServiceItem{ ID :1002 name : Web Development price :299.99}
+
+ =====================sort by Price =====================
+ServiceItem{ ID :1001 name : Plumbing Service price :99.99}
+
+ServiceItem{ ID :1003 name : Graphic Design price :149.99}
+
+ServiceItem{ ID :1002 name : Web Development price :299.99}
+

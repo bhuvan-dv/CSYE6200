@@ -1,0 +1,5 @@
+01,25,Trump,Dollar,DadTrump, DadDollar
+02,23,chris,stew,Tejas,Purohit
+03,29,derick,mc,Giri, mcP
+04,39,mohit,yung,Mugunth, yungP
+05,12,patrick,Das,David, DasP

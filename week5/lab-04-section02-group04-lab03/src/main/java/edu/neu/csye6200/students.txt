@@ -1,0 +1,5 @@
+01, 25, Trump, Dollar, DadTrump, DadDollar, 4.0
+02, 23, chris, stew, Tejas, Purohit, 3.5
+03, 29, derick, mc, Giri, mcP, 3.7
+04, 39, mohit, yung, Mugunth, yungP, 3.2
+05, 12, patrick, Das, David, DasP, 3.6
